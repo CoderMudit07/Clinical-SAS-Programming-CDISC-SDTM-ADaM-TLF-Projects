@@ -3,10 +3,6 @@ End-to-End Clinical SAS Programming Portfolio demonstrating CDISC SDTM, ADaM, TL
 ## Project Overview
 This repository contains a Clinical SAS Programming project developed to demonstrate an end-to-end clinical data workflow and data standardization commonly used in pharmaceutical companies and clinical research organizations (CROs), from raw data processing to SDTM, ADaM, TLF generation, and validation.
 The project follows a simplified clinical trial structure and illustrates the process of transforming raw clinical data into SDTM domains, deriving ADaM analysis datasets, generating Tables/Listings/Figures (TLFs), and performing independent quality control validation.
-
-## Disclaimer
-- This repository has been created solely for educational, learning and portfolio demonstration purposes.
-- The code, documentation and project structure are intended to showcase clinical programming concepts and workflows. No real clinical trial data, proprietary  study information or confidential materials have been used.
 ---
 ## Project Workflow
 
@@ -93,12 +89,9 @@ Following completion of both programming streams, output datasets were reconcile
 This approach reflects the independent double-programming and validation practices commonly used in clinical statistical programming environments.
 ---
 
----
-
 ## Future Enhancements
 
 Planned additions include:
-
 - Additional SDTM domains
 - Expanded ADaM dataset derivations
 - Safety analysis outputs
@@ -106,7 +99,10 @@ Planned additions include:
 - Automated reporting macros
 - Metadata and specification documentation
 
----
-
 ## Endnotes
 This project was developed to simulate a complete clinical programming workflow, beginning with source data preparation and progressing through SDTM mapping, ADaM derivation, TLF generation, and independent quality control validation. The repository is intended to serve as a practical demonstration of programming concepts, reporting techniques, and validation practices commonly applied within clinical research and statistical programming environments.
+
+## Disclaimer
+- This repository has been created solely for educational, learning and portfolio demonstration purposes.
+- The code, documentation and project structure are intended to showcase clinical programming concepts and workflows. No real clinical trial data, proprietary  study information or confidential materials have been used.
+
