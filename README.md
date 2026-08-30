@@ -7,8 +7,6 @@ The project follows a simplified clinical trial structure and illustrates the pr
 ## Disclaimer
 - This repository has been created solely for educational, learning and portfolio demonstration purposes.
 - The code, documentation and project structure are intended to showcase clinical programming concepts and workflows. No real clinical trial data, proprietary  study information or confidential materials have been used.
-
-Unauthorized reproduction or redistribution of repository contents for commercial purposes is not intended.
 ---
 ## Project Workflow
 
