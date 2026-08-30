@@ -5,10 +5,10 @@ This repository contains a Clinical SAS Programming project developed to demonst
 The project follows a simplified clinical trial structure and illustrates the process of transforming raw clinical data into SDTM domains, deriving ADaM analysis datasets, generating Tables/Listings/Figures (TLFs), and performing independent quality control validation.
 
 ## Disclaimer
-- All datasets used in this repository are mock datasets created for learning and portfolio purposes.
-- No real patient data has been used.
-- The project is intended solely for educational and demonstration purposes.
-  
+- This repository has been created solely for educational, learning and portfolio demonstration purposes.
+- The code, documentation and project structure are intended to showcase clinical programming concepts and workflows. No real clinical trial data, proprietary  study information or confidential materials have been used.
+
+Unauthorized reproduction or redistribution of repository contents for commercial purposes is not intended.
 ---
 ## Project Workflow
 
